@@ -1,9 +1,10 @@
 ## Hi there 👋
 
+### 🐍 My Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./snake.svg">
-  <img width="720" alt="snake" src="./snake.svg">
+  <img width="700" alt="Contribution Snake" src="./snake.svg">
 </picture>
 
 <!--
