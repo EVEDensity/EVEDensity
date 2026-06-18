@@ -1,6 +1,5 @@
-## <span style="color:#4ECDC4">Hi there 👋</span>
+## <span style="color:#4ECDC4">Hi, I'm Density, an AI Full-Stack Engineer. 👋</span>
 
-<p align="center"><span style="font-size:22px; color:#4ECDC4;">Hi, I'm Density, an AI Full-Stack Engineer.</span></p>
 
 <p align="center">I’m actively looking for internship roles across all promising tech tracks.</p>
 
