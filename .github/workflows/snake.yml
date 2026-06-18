@@ -1,0 +1,29 @@
+name: Generate Contribution Snake
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每日0点自动刷新贡献蛇
+  workflow_dispatch: # 支持手动点Action运行
+
+jobs:
+  snake-generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 必须开启，才能提交生成的svg文件
+    steps:
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+
+      - name: 生成贪吃蛇SVG
+        uses: Platane/snk@v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # 天蓝色4ECDC4，输出明暗两套svg到仓库根目录
+          outputs: |
+            snake.svg?color_snake=4ECDC4&palette=github-light
+            snake-dark.svg?color_snake=4ECDC4&palette=github-dark
+
+      - name: 提交更新SVG文件
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: 自动更新贡献贪吃蛇
