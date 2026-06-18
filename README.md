@@ -1,8 +1,10 @@
-## Hi there 👋
+## <span style="color:#4ECDC4">Hi there 👋</span>
 
-I’m actively looking for internship roles across all promising tech tracks.
+<p align="center"><span style="font-size:22px; color:#4ECDC4;">Hi, I'm Density, an AI Full-Stack Engineer.</span></p>
 
-🌱 D.O.B: 2005-07-21  📍 Available nationwide / Open to remote work.
+<p align="center">I’m actively looking for internship roles across all promising tech tracks.</p>
+
+<p align="center">🌱 D.O.B: 2005-07-21  📍 Available nationwide / Open to remote work.</p>
 
 - I deeply appreciate the vibrant open-source community and rely on VS Code for all daily development work.
 - I enjoy volunteering my spare time to build creative open-source projects; feel free to reach out via email for collaboration.
@@ -12,6 +14,7 @@ I’m actively looking for internship roles across all promising tech tracks.
 
 > "Learning accompanies the whole of life; its bounds are unreachable, and its joys boundless."
 > "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn."
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./snake.svg">
