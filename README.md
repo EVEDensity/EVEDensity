@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-### 🐍 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-snake.vercel.app/api?username=EVEDensity&theme=dark&snake_color=4ECDC4">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-snake.vercel.app/api?username=EVEDensity&theme=light&snake_color=4ECDC4">
-  <img width="720" alt="GitHub Snake" src="https://github-readme-snake.vercel.app/api?username=EVEDensity&snake_color=4ECDC4">
+  <source media="(prefers-color-scheme: dark)" srcset="./snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./snake.svg">
+  <img width="720" alt="snake" src="./snake.svg">
 </picture>
 
 <!--
