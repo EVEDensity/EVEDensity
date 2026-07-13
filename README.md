@@ -1,5 +1,13 @@
 ## <span style="color:#4ECDC4">Hi, I'm Density, an AI Full-Stack Engineer. 👋</span>
 
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=black&text=EVEDENSITY&section=footer&textBg=false&fontSize=90&fontColor=blue&animation=scaleIn&strokeWidth=2&stroke=0000ff" 
+    width="100%" 
+    alt="EVEDENSITY footer banner"
+  >
+</p>
+
 
 <p align="center">I’m actively looking for internship roles across all promising tech tracks.</p>
 
