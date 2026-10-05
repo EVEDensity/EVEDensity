@@ -1,45 +1,53 @@
-## <span style="color:#4ECDC4">Hi, I'm Density, an AI Full-Stack Engineer. 👋</span>
+<h2>
+  <a href="./README.zh-CN.md">
+    <img align="right" src="https://img.shields.io/badge/English-简体中文-4ECDC4?style=flat-square" alt="切换到简体中文">
+  </a>
+  Hi, I'm Density, an AI Wizard. 👋
+</h2>
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=black&text=EVEDENSITY&section=footer&textBg=false&fontSize=90&fontColor=blue&animation=scaleIn&strokeWidth=2&stroke=0000ff" 
-    width="100%" 
-    alt="EVEDENSITY footer banner"
+  <img
+    src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=black&text=EVEDENSITY&section=footer&textBg=false&fontSize=90&fontColor=blue&animation=scaleIn&strokeWidth=2&stroke=0000ff"
+    width="100%"
+    alt="EVEDENSITY banner"
   >
 </p>
 
+<p align="center">
+  I'm actively seeking internships across exciting tech fields.
+</p>
 
-<p align="center">I’m actively looking for internship roles across all promising tech tracks.</p>
+<p align="center">
+  🌱 Born: July 21, 2005 · 📍 China / Remote
+</p>
 
-<p align="center">🌱 D.O.B: 2005-07-21  📍 China / remote</p>
+- I enjoy building creative open-source projects in my spare time. Feel free to reach out via email to collaborate.
+- My main areas of research include AI full-stack engineering, AI agents, and text-to-speech (TTS).
+- I like creating small AI tools to explore ideas, experiment with new possibilities, and support my research.
+- I share my projects and experiments on the platforms below. Feel free to follow, leave a like, or say hello!
 
-- I deeply appreciate the vibrant open-source community and rely on VS Code for all daily development work.
-- I enjoy volunteering my spare time to build creative open-source projects; feel free to reach out via email for collaboration.
-- My core target intern positions cover AI Research & Development, Full-Stack AI Engineering and Agent System Development, and I’m receptive to other relevant opportunities.
-- I’m passionate about large model systems, intelligent automation and clean, minimalist design standards.
-- If my ongoing research and projects spark your interest, I’d love to connect and collaborate together.
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  Open-source projects · AI experiments · Development notes · Creative ideas
+</p>
+
+<p align="center">
+  <a href="https://github.com/EVEDensity"><img src="https://img.shields.io/badge/GitHub-EVEDensity-181717?style=flat&logo=github&logoColor=white" alt="GitHub: EVEDensity"></a>
+  <a href="https://x.com/Densitylucky"><img src="https://img.shields.io/badge/X-Densitylucky-000000?style=flat&logo=x&logoColor=white" alt="X: Densitylucky"></a>
+  <a href="https://space.bilibili.com/511755561"><img src="https://img.shields.io/badge/Bilibili-511755561-00A1D6?style=flat&logo=bilibili&logoColor=white" alt="Bilibili: 511755561"></a>
+  <a href="https://blog.csdn.net/density666"><img src="https://img.shields.io/badge/CSDN-density666-FC5531?style=flat&logo=csdn&logoColor=white" alt="CSDN: density666"></a>
+  <a href="https://www.xiaohongshu.com/user/profile/61279004000000000100465d"><img src="https://img.shields.io/badge/Xiaohongshu-Follow%20Me-FF2442?style=flat&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu"></a>
+</p>
 
 > "Learning accompanies the whole of life; its bounds are unreachable, and its joys boundless."
 
 > "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn."
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./snake.svg">
-  <img width="700" alt="Contribution Snake" src="./snake.svg">
-</picture>
-
-<!--
-**EVEDensity/EVEDensity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./snake.svg">
+    <img width="100%" alt="Contribution Snake" src="./snake.svg">
+  </picture>
+</p>
